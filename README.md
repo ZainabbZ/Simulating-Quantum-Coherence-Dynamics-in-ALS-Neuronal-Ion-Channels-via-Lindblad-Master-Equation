@@ -1,0 +1,1 @@
+# Simulating-Quantum-Coherence-Dynamics-in-ALS-Neuronal-Ion-Channels-via-Lindblad-Master-Equation
